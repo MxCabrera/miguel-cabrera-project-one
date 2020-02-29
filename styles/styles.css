@@ -377,7 +377,7 @@ input[type="email"] {
     }
 
     .aside-wrapper {
-    width: 53%;
+        width: 53%;
     }
     .main-title {
         font-size: 18rem;
@@ -393,67 +393,67 @@ input[type="email"] {
     }
 
     .main-info-p {
-    font-size: 2.8rem;
-    line-height: 4rem;
-    margin-top: 2.4rem;
+        font-size: 2.8rem;
+        line-height: 4rem;
+        margin-top: 2.4rem;
     }
     .buttons {
-    font-size: 2.5rem;
-    padding: 1.4rem 3.9rem;
+        font-size: 2.5rem;
+        padding: 1.4rem 3.9rem;
     }
     .main-images {
-    height: 82.7rem;
+        height: 82.7rem;
     }
     .alissa-p {
-    font-size: 2.7rem;
-    line-height: 4rem;
+        font-size: 2.7rem;
+        line-height: 4rem;
     }
     .section-2-info {
-    padding: 15.62rem 7.5rem 17.5rem 7.5rem;
+        padding: 15.62rem 7.5rem 17.5rem 7.5rem;
     }
     .clearfix .alissa img {
-    margin: 14rem 0 11.56rem 10rem;
+        margin: 14rem 0 11.56rem 10rem;
     }
     .read-more {
-    margin-top: 4rem;
+        margin-top: 4rem;
     }   
     .aside1 {
-    height: 67rem;
+        height: 67rem;
     }
     .aside-user-options {
         margin-left: 13rem;
     }
     .user-option {
-    font-size: 4.2rem;
+        font-size: 4.2rem;
     }
     .section-3-wrapper h3 {
-    font-size: 6rem;
-    padding: 13.5rem;
+        font-size: 6rem;
+        padding: 13.5rem;
     }
     .section-3-pictures img {
-    margin: 0.62rem 1.87rem 15rem 1.87rem;
+        margin: 0.62rem 1.87rem 15rem 1.87rem;
     }
     footer {
-    height: 57rem;
+        height: 57rem;
     }
     .nav-footer {
-    padding-top: 13.25rem;
+        padding-top: 13.25rem;
     }
     .footer-side-b {
-    margin-right: 2rem;
+        margin-right: 2rem;
     }
     input[type="email"] {
-    padding: 1rem 0 1rem 5rem;
-    width: 65%;
+        padding: 1rem 0 1rem 5rem;
+        width: 65%;
     }
     form button {
-    padding: 1.7rem 4.06rem;
+        padding: 1.7rem 4.06rem;
     }
     .copyright {
-    font-size: 2.5rem;
+        font-size: 2.5rem;
     }
     .copyright-p {
-    padding: 1.1rem 0;
+        padding: 1.1rem 0;
     }
 
 }
@@ -462,10 +462,10 @@ input[type="email"] {
 
 @media (max-width:3220px) {
     .section-3-wrapper, .footer-wrapper {
-    width: 82%;
+        width: 82%;
     }
     .section-3-pictures img {
-    width: 29%;
+        width: 29%;
     }
 }
 
@@ -481,14 +481,14 @@ input[type="email"] {
     }
 
     .aside-wrapper {
-    width: 60%;
+        width: 60%;
     }
     .main-title {
-    font-size: 15rem;
-    margin: 31rem 0 38.7rem 0;
+        font-size: 15rem;
+        margin: 31rem 0 38.7rem 0;
     }
     .icons {
-    margin-top: 26rem;
+        margin-top: 26rem;
     }
     i {
         margin: 1.1rem;
@@ -496,91 +496,356 @@ input[type="email"] {
     }
 
     .main-info-p {
-        font-size: 2.1rem;
+        font-size: 2rem;
         line-height: 3.2rem;
         margin-top: 1.5rem;
     }
     .main-info-1 {
-    padding: 19rem 18.75rem 17rem 18.75rem;
+        padding: 19rem 18.75rem 17rem 18.75rem;
     }
     .main-info-1 h3 {
-    font-size: 5rem;
+        font-size: 5rem;
     }
 
     .buttons {
-    font-size: 2.2rem;
-    padding: 1.4rem 3.9rem;
+        font-size: 2.2rem;
+        padding: 1.4rem 3.9rem;
     }
     .main-images {
-    height: 70.7rem;
+        height: 70.7rem;
     }
     .alissa-p {
-    font-size: 2.3rem;
-    line-height: 3.5rem;
+        font-size: 2.3rem;
+        line-height: 3.5rem;
     }
     .section-2-info {
-    padding: 12rem 7.5rem 12.5rem 7.5rem;
+        padding: 12rem 7.5rem 12.5rem 7.5rem;
     }
     .section-2-info h3 {
-    font-size: 5rem;
+        font-size: 5rem;
     }
     .clearfix .alissa img {
-    margin: 13rem 0 11.56rem 10rem;
+        margin: 13rem 0 11.56rem 10rem;
     }
     .aside1 {
-    height: 57.2rem;
+        height: 57.2rem;
     }
     .aside-user-options {
         margin-left: 13rem;
     }
     .user-option {
-    font-size: 3.8rem;
-    padding: 18.87rem 6.25rem;
+        font-size: 3.8rem;
+        padding: 18.87rem 6.25rem;
     }
     .section-3-wrapper h3 {
-    font-size: 5rem;
-    padding: 11.5rem;
+        font-size: 5rem;
+        padding: 11.5rem;
     }
     footer {
-    height: 52rem;
+        height: 52rem;
     }
     .nav-footer li {
-    font-size: 2.5rem;
+        font-size: 2.5rem;
     }
     .footer-side-a,
     .footer-side-b {
-    margin-top: 3.5rem;
-    /* margin-right: 2rem; */
+        margin-top: 3.5rem;
     }
     .f-updated, .f-contact {
-    font-size: 3rem;
+        font-size: 3rem;
     }
     .footer-side-a p,
     .footer-side-b p {
         font-size: 2.5rem;
     } 
     input[type="email"] {
-    padding: 0.5rem 0 0.5rem 3rem;
+        padding: 0.5rem 0 0.5rem 3rem;
     }
     form button {
-    padding: 1.8rem 4rem;
-    font-size: 2.2rem;
+        padding: 1.8rem 4rem;
+        font-size: 2.2rem;
     }
     .copyright {
-    font-size: 2rem;
+        font-size: 2rem;
     }
     .copyright-p {
-    padding: 1rem 0;
+        padding: 1rem 0;
     }
 }
 
 
 
 @media (max-width: 2500px) {
+        .wrapper,
+    .section-wrapper,
+    .section-3-wrapper,
+    .footer-wrapper {
+        max-width: 156.25rem;
+    }
+    .header-buttons {
+        font-size: 2rem;
+        padding-top: 0rem;
+    }
+    .main-title {
+        font-size: 12rem;
+        margin: 24rem 0 33rem 0;
+    }
+    .icons {
+        margin-top: 22rem;
+    }
+    i {
+        margin: 0.8rem;
+        font-size: 2.5rem;
+    }
+    .main-info-p {
+        font-size: 1.8rem;
+        line-height: 2.8rem;
+        margin-top: 1.5rem;
+    }
+    .main-info-1 {
+        padding: 15rem 14rem 14rem 16rem;
+    }
+    .main-info-1 h3 {
+        font-size: 4rem;
+    }
+    .main-images {
+        height: 58rem;
+    }
+    .read-more {
+        margin-top: 2rem;
+    }
+    .buttons {
+        font-size: 1.8rem;
+        padding: 1.2rem 3.5rem;
+    }
+    .alissa-p {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+    
+    .section-2-info h3 {
+        font-size: 4rem;
+    }
+    .clearfix .alissa img {
+        margin: 10rem 0 10rem 10rem;
+    }
+    .section-2-info {
+        padding: 10rem 7.5rem 10.8rem 7.5rem;
+    }
+    .aside1 {
+        height: 47.2rem;
+    }
+    .aside-user-options {
+        margin-left: 14rem;
+    }
+    .aside-icons i {
+        font-size: 5rem;
+        margin-bottom: 3rem;
+    }
+    .user-option {
+        font-size: 3rem;
+        padding: 15.87rem 5.25rem;
+    }
+    .section-3-wrapper h3 {
+        font-size: 4.5rem;
+        padding: 9.5rem;
+    }
+    .section-3-pictures img {
+        margin: 0.62rem 1.87rem 11rem 1.87rem;
+    }
+    footer {
+        height: 40rem;
+    }
+    .nav-footer {
+        padding-top: 10rem;
+    }
+    .nav-footer li {
+        font-size: 1.8rem;
+    }
+    .footer-side-a h4, 
+    .footer-side-b h4 {
+        margin-bottom: 1rem;
+    }
+    .footer-side-a,
+    .footer-side-b {
+        margin-top: 3.5rem;
+        line-height: 3.2rem;
+    }
+    .f-updated, .f-contact {
+        font-size: 2.5rem;
+    }
+    .footer-side-a p, 
+    .footer-side-b p {
+        font-size: 2rem;
+    }
+    .footer-side-b {
+        margin-right: 0rem;
+    }
+    button, input, select, textarea {
+        font-size: 60%;
+    }
+    input[type="email"] {
+        padding: 0.7rem 0 0.7rem 3rem;
+    }
+    form button {
+        padding: 1.3rem 3.5rem;
+        font-size: 1.8rem;
+    }
+    .copyright i {
+        font-size: 1.5rem;
+    }
+    .copyright {
+        font-size: 1.5rem;
+    }
+    .copyright-p {
+        padding: 0.8rem 0;
+    }
+}
 
+@media (max-width: 2250px) {
+    .clearfix .alissa img {
+        margin: 10rem 0 10rem 8rem;
+    }
+    .section-2-info {
+        width: 68%;
+    }
+    .section-2-info h3 {
+        font-size: 3rem;
+    }
+    .alissa-p {
+        font-size: 1.8rem;
+        line-height: 2.3rem;
+    }
+    .aside-user-options {
+        margin-left: 7rem;
+    }
 }
 
 @media (max-width: 2000px) {
+    .wrapper,
+    .section-wrapper,
+    .section-3-wrapper,
+    .footer-wrapper {
+        max-width: 125rem;
+    }
+    .header-buttons {
+        font-size: 2.4rem;
+    }
+    .main-title {
+        font-size: 10rem;
+        margin: 19rem 0 27rem 0;
+    }
+    .icons {
+        margin-top: 16rem;
+    }
+    i {
+        margin: 0.6rem;
+        font-size: 2rem;
+    }
+    .main-info-p {
+        font-size: 1.5rem;
+        line-height: 2.2rem;
+    }
+    .main-info-1 {
+        padding: 14.5rem 9rem 11rem 12rem;
+    }
+    .main-info-1 h3 {
+        font-size: 3rem;
+    }
+
+    .main-images {
+        height: 46.5rem;
+    }
+    .read-more {
+        margin-top: 2rem;
+    }
+    .buttons {
+        font-size: 1.4rem;
+        padding: 1rem 2.3rem;
+    }
+    .alissa-p {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    }
+    .section-2-info h3 {
+        font-size: 3rem;
+    }
+    .clearfix .alissa img {
+        margin: 9rem 0 8rem 6.5rem;
+    }
+    .section-2-info {
+        padding: 10rem 1.5rem 7rem 3.5rem;
+    }
+    .aside1 {
+        height: 38rem;
+    }
+
+    .aside-user-options {
+        margin-left: 10rem;
+    }
+    .aside-icons i {
+        font-size: 4rem;
+        margin-bottom: 2rem;
+    }
+    .user-option {
+        font-size: 2.5rem;
+        padding: 12.87rem 4rem;
+    }
+    
+    .section-3-wrapper h3 {
+        font-size: 4.5rem;
+        padding: 9.5rem;
+    }
+    .section-3-pictures img {
+        margin: 0.62rem 1.87rem 11rem 1.87rem;
+    }
+    footer {
+        height: 40rem;
+    }
+    .nav-footer {
+        padding-top: 10rem;
+    }
+    .nav-footer li {
+        font-size: 1.8rem;
+    }
+    .footer-side-a h4, 
+    .footer-side-b h4 {
+        margin-bottom: 1rem;
+    }
+    .footer-side-a,
+    .footer-side-b {
+        margin-top: 3.5rem;
+        line-height: 3.2rem;
+    }
+    .f-updated, .f-contact {
+        font-size: 2.5rem;
+    }
+    .footer-side-a p, 
+    .footer-side-b p {
+        font-size: 2rem;
+    }
+    .footer-side-b {
+        margin-right: 0rem;
+    }
+    button, input, select, textarea {
+        font-size: 60%;
+    }
+    input[type="email"] {
+        padding: 0.7rem 0 0.7rem 3rem;
+    }
+    form button {
+        padding: 1.3rem 3.5rem;
+        font-size: 1.8rem;
+    }
+    .copyright i {
+        font-size: 1.5rem;
+    }
+    .copyright {
+        font-size: 1.5rem;
+    }
+    .copyright-p {
+        padding: 0.8rem 0;
+    }
 
 }
 
