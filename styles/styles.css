@@ -791,22 +791,22 @@ input[type="email"] {
         font-size: 2.5rem;
         padding: 12.87rem 4rem;
     }
-    
     .section-3-wrapper h3 {
-        font-size: 4.5rem;
-        padding: 9.5rem;
+        font-size: 3.5rem;
+        padding: 8rem;
     }
     .section-3-pictures img {
-        margin: 0.62rem 1.87rem 11rem 1.87rem;
+        margin: -1.38rem 1.87rem 10.5rem 1.87rem;
     }
+
     footer {
-        height: 40rem;
+        height: 32.5rem;
     }
     .nav-footer {
-        padding-top: 10rem;
+        padding-top: 8rem;
     }
     .nav-footer li {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     .footer-side-a h4, 
     .footer-side-b h4 {
@@ -815,27 +815,25 @@ input[type="email"] {
     .footer-side-a,
     .footer-side-b {
         margin-top: 3.5rem;
-        line-height: 3.2rem;
+        line-height: 2.2rem;
     }
-    .f-updated, .f-contact {
-        font-size: 2.5rem;
+    .f-updated,
+    .f-contact {
+        font-size: 2rem;
     }
     .footer-side-a p, 
     .footer-side-b p {
-        font-size: 2rem;
-    }
-    .footer-side-b {
-        margin-right: 0rem;
+        font-size: 1.5rem;
     }
     button, input, select, textarea {
         font-size: 60%;
     }
     input[type="email"] {
-        padding: 0.7rem 0 0.7rem 3rem;
+        padding: 0.5rem 0 0.5rem 2rem;
     }
     form button {
-        padding: 1.3rem 3.5rem;
-        font-size: 1.8rem;
+        padding: 1.2rem 3rem;
+        font-size: 1.3rem;
     }
     .copyright i {
         font-size: 1.5rem;
