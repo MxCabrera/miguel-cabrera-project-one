@@ -1188,9 +1188,230 @@ input[type="email"] {
 
 
 @media (max-width: 768px) {
+    .wrapper,
+    .section-wrapper,
+    .section-3-wrapper,
+    .footer-wrapper {
+        max-width: 48rem;
+    }
+    .header1 {
+        background-position: center;
+    }
+    nav {
+        padding-top: 0;
+    }
+    .header-buttons {
+        font-size: 3.7rem;
+        padding-top: 0rem;
+    }
+    .main-title {
+        width: 75%;
+        font-size: 5.5rem;
+        margin: 8rem 0 11rem 0;
+    }
+    .icons {
+        width: 10%;
+        margin-top: 6.5rem;
+        margin-right: 2.2rem;
+    }
+    i {
+        margin: 0.6rem;
+        font-size: 1.2rem;
+    }
+    .main-info-1 {
+        float: none;
+        width: 100%;
+        padding: 4rem 3rem 4rem 4.2rem;
+    }
+    .main-info-p {
+        font-size: 1.1rem;
+        line-height: 1.8rem;
+        margin-top: 1.2rem;
+    }
+    .main-images {
+        width: 100%;
+    }
+    .main-info-1 h3 {
+        font-size: 2.5rem;
+    }
+    .mission {
+        padding-top: 24rem;
+    }
+    .read-more {
+        margin-top: 1.5rem;
+    }
 
+    .section-2 .section-wrapper {
+        width: 95%;
+    }
+    .clearfix .alissa img {
+        width: 100%;
+        float: none;
+        margin: 2rem 0 0 0rem;
+        height: 75vh;
+    }
+    .buttons {
+        font-size: 0.9rem;
+        padding: 0.7rem 1.4rem;
+    }
+    .section-2-info {
+        padding: 3rem 1.5rem 3rem 3rem;
+        width: 100%; 
+    }
+    .section-2-info h3 {
+        font-size: 3rem;
+        margin-bottom: 1.5rem;
+    }
+    .alissa-p {
+        font-size: 1.1rem;
+        line-height: 1.8rem;
+    }
+    .aside-wrapper {
+        width: 70%;
+    }
+    .aside1 {
+        background-position-x: 68%;
+    }
+    .aside-user-options {
+        margin-left: 0.5rem;
+    }
+    .aside-icons i {
+        font-size: 3rem;
+        margin-bottom: 2rem;
+    }
+    .user-option {
+        font-size: 1.5rem;
+        padding: 6.5rem 2.3rem;
+    }
+    .section-3-wrapper {
+        width: 99%;
+    }
+    .section-3-wrapper h3 {
+        font-size: 2.8rem;
+    }
+    .section-3-pictures {
+        margin-left: 0rem;
+    }
+
+    footer {
+        height: 21rem;
+    }
+    .nav-footer li {
+        font-size: 1.1rem;
+    }
+    .footer-side-a,
+    .footer-side-b {
+        margin-top: 5rem;
+        line-height: 1.6rem;
+    }
+    .f-updated, .f-contact {
+        font-size: 1.4rem;
+    }
+    .footer-side-a h4,
+    .footer-side-b h4 {
+        margin-bottom: 1.5rem;
+    }
+    .footer-side-a p,
+    .footer-side-b p {
+        font-size: 1rem;
+    }
+    .copyright {
+        font-size: 1rem;
+    }
+    .copyright-p {
+        padding: 0.6rem 0;
+    }
+    .copyright i {
+        font-size: 1rem;
+    }
 }
 
 @media (max-width: 360px) {
+    .wrapper,
+    .section-wrapper,
+    .section-3-wrapper,
+    .footer-wrapper {
+        max-width: 22.5rem;
+    }
+        /* 
 
+    .aside-wrapper {
+        width: 53%;
+    }
+    .main-title {
+        font-size: 18rem;
+        margin: 34rem 0 46rem 0;
+    }
+    i {
+        margin: 1.1rem;
+        font-size: 3.5rem;
+    }
+    .header-buttons {
+        font-size: 3rem;
+        padding-top: 4rem;
+    }
+
+    .main-info-p {
+        font-size: 2.8rem;
+        line-height: 4rem;
+        margin-top: 2.4rem;
+    }
+    .buttons {
+        font-size: 2.5rem;
+        padding: 1.4rem 3.9rem;
+    }
+    .main-images {
+        height: 82.7rem;
+    }
+    .alissa-p {
+        font-size: 2.7rem;
+        line-height: 4rem;
+    }
+    .section-2-info {
+        padding: 15.62rem 7.5rem 17.5rem 7.5rem;
+    }
+    .clearfix .alissa img {
+        margin: 14rem 0 11.56rem 10rem;
+    }
+    .read-more {
+        margin-top: 4rem;
+    }   
+    .aside1 {
+        height: 67rem;
+    }
+    .aside-user-options {
+        margin-left: 13rem;
+    }
+    .user-option {
+        font-size: 4.2rem;
+    }
+    .section-3-wrapper h3 {
+        font-size: 6rem;
+        padding: 13.5rem;
+    }
+    .section-3-pictures img {
+        margin: 0.62rem 1.87rem 15rem 1.87rem;
+    }
+    footer {
+        height: 57rem;
+    }
+    .nav-footer {
+        padding-top: 13.25rem;
+    }
+    .footer-side-b {
+        margin-right: 2rem;
+    }
+    input[type="email"] {
+        padding: 1rem 0 1rem 5rem;
+        width: 65%;
+    }
+    form button {
+        padding: 1.7rem 4.06rem;
+    }
+    .copyright {
+        font-size: 2.5rem;
+    }
+    .copyright-p {
+        padding: 1.1rem 0;
+    } */
 }
