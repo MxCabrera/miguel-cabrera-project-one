@@ -365,6 +365,10 @@ input[type="email"] {
 
 
 
+
+
+
+
 /* media queries begin here  */
 
 @media (max-width: 3500px) {
@@ -460,6 +464,7 @@ input[type="email"] {
 
 
 
+
 @media (max-width:3220px) {
     .section-3-wrapper, .footer-wrapper {
         width: 82%;
@@ -468,6 +473,8 @@ input[type="email"] {
         width: 29%;
     }
 }
+
+
 
 
 
@@ -572,6 +579,7 @@ input[type="email"] {
         padding: 1rem 0;
     }
 }
+
 
 
 
@@ -702,6 +710,8 @@ input[type="email"] {
     }
 }
 
+
+
 @media (max-width: 2250px) {
     .clearfix .alissa img {
         margin: 10rem 0 10rem 8rem;
@@ -720,6 +730,8 @@ input[type="email"] {
         margin-left: 7rem;
     }
 }
+
+
 
 @media (max-width: 2000px) {
     .wrapper,
@@ -747,7 +759,7 @@ input[type="email"] {
         line-height: 2.2rem;
     }
     .main-info-1 {
-        padding: 14.5rem 9rem 11rem 12rem;
+        padding: 14.5rem 9rem 7rem 12rem;
     }
     .main-info-1 h3 {
         font-size: 3rem;
@@ -844,19 +856,336 @@ input[type="email"] {
     .copyright-p {
         padding: 0.8rem 0;
     }
-
 }
 
 
 
-@media (max-width: 1437px) {
+@media (max-width: 1700px) {
+    .wrapper,
+    .section-wrapper,
+    .section-3-wrapper,
+    .footer-wrapper {
+        max-width: 106.25rem;
+    }
+    .header-buttons {
+        font-size: 2rem;
+    }
+    .main-title {
+        font-size: 8.5rem;
+        margin: 14rem 0 22.5rem 0;
+    }
+    .icons {
+        margin-top: 14rem;
+        margin-right: 4.1rem;
+    }
+    i {
+        margin: 0.5rem;
+        font-size: 1.7rem;
+    }
+    .main-info-1 {
+        padding: 11.5rem 9rem 7rem 12rem;
+    }
+    .aside1 {
+        height: 31.8rem;
+    }
+    .aside-user-options {
+        margin-left: 8rem;
+    }
+    .user-option {
+        font-size: 2rem;
+        padding: 10.5rem 4rem;
+    }
+    .aside-icons i {
+        font-size: 3.2rem;
+        margin-bottom: 1.8rem;
+    }
+    .section-3-pictures img {
+        width: 27%;
+    }
+    input[type="email"] {
+        width: 62%;
+    }
+}
+
+
+
+
+@media (max-width: 1440px) {
     .wrapper,
     .section-wrapper,
     .section-3-wrapper,
     .footer-wrapper {
         max-width: 89.8rem;
     }
+    .header-buttons {
+        font-size: 2.7rem;
+        padding-top: 0.3rem;
+    }
+    .nav-buttons {
+        margin: 0.8rem;
+    }
+    .main-title {
+        font-size: 7.2rem;
+        margin: 14rem 0 18.3rem 0;
+    }
+    .icons {
+        margin-top: 12rem;
+        margin-right: 3.2rem;
+    }
+    i {
+        margin: 0.4rem;
+        font-size: 1.5rem;
+    }
+    .main-info-p {
+        font-size: 1rem;
+        line-height: 1.6rem;
+    }
+    .main-info-1 {
+        padding: 8.5rem 7.8rem 5rem 8.5rem;
+    }
+    .main-info-1 h3 {
+        font-size: 2rem;
+    }
+    .main-images {
+        height: 32.8rem;
+    }
+    .read-more {
+        margin-top: 1.5rem;
+    }
+    .buttons {
+        font-size: 1rem;
+        padding: 0.7rem 1.4rem;
+    }
+    .alissa-p {
+        font-size: 1.2rem;
+        line-height: 1.6rem;
+    }
+    .section-2-info h3 {
+        font-size: 2.2rem;
+    }
+    .clearfix .alissa img {
+        margin: 6rem 0 5rem 4rem;
+    }
+    .section-2-info {
+        padding: 6rem 1.5rem 5.6rem 3.5rem;
+    }
+    .aside1 {
+        height: 26.8rem;
+    }
+    .aside-user-options {
+        margin-left: 5rem;
+    }
+    .aside-icons i {
+        font-size: 2.8rem;
+        margin-bottom: 1.3rem;
+    }
+    .user-option {
+        font-size: 1.5rem;
+        padding: 9.5rem 3.5rem;
+    }
+    .section-3-wrapper h3 {
+        font-size: 2.3rem;
+        padding: 6rem;
+    }
+    .section-3-pictures {
+        margin-left: 4.5rem;
+    }
+    .section-3-pictures img {
+        margin: -1.38rem 0.87rem 6.1rem 0.87rem;
+    }
+    .section-3-pictures img {
+        width: 30%;
+    }
+    .section-3-wrapper,
+    .footer-wrapper {
+        width: 88%;
+    }
+    footer {
+        height: 22.6rem;
+    }
+    .nav-footer {
+        padding-top: 5.2rem;
+    }
+    .nav-footer li {
+        font-size: 1rem;
+    }
+    .footer-side-a h4, 
+    .footer-side-b h4 {
+        margin-bottom: 1rem;
+    }
+    .footer-side-a,
+    .footer-side-b {
+        margin-top: 1.8rem;
+        line-height: 1.8rem;
+    }
+    .f-updated,
+    .f-contact {
+        font-size: 1.4rem;
+    }
+    .footer-side-a p, 
+    .footer-side-b p {
+        font-size: 1.1rem;
+    }
+    button, input, select, textarea {
+        font-size: 34%;
+    }
+    input[type="email"] {
+        padding: 0.5rem 0 0.5rem 1rem;
+    }
+    form button {
+        padding: 0.6rem 1.8rem;
+        font-size: 1rem;
+    }
+    .copyright i {
+        font-size: 1rem;
+    }
+    .copyright {
+        font-size: 1rem;
+    }
+    .copyright-p {
+        padding: 0.45rem 0;
+    }
 }
+
+@media (max-width: 1082px) {
+    .wrapper,
+    .section-wrapper,
+    .section-3-wrapper,
+    .footer-wrapper {
+        max-width: 67.62rem;
+    }
+    .main-title {
+        font-size: 5.5rem;
+        margin: 9rem 0 14rem 0;
+    }
+    .icons {
+        margin-top: 8rem;
+        margin-right: 3.2rem;
+    }
+    i {
+        margin: 0.3rem;
+        font-size: 1.2rem;
+    }
+    .main-info-p {
+        font-size: 0.8rem;
+        line-height: 1.25rem;
+        margin-top: 1rem;
+    }
+    .main-info-1 {
+        padding: 6rem 4.8rem 3rem 7rem;
+    }
+    .main-info-1 h3 {
+        font-size: 1.5rem;
+    }
+    .main-images {
+        height: 24.5rem;
+    }
+    .read-more {
+        margin-top: 1.5rem;
+    }
+    .buttons {
+        font-size: 0.7rem;
+        padding: 0.6rem 1.2rem;
+    }
+    .alissa-p {
+        font-size: 0.8rem;
+        line-height: 1.2rem;
+    }
+    .section-2-info h3 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+    }
+    .clearfix .alissa img {
+        margin: 4.8rem 0 4rem 3.3rem;
+    }
+    .section-2-info {
+        padding: 4.8rem 1.5rem 3rem 3.5rem;
+    }
+    .read-more {
+        margin-top: 1rem;
+    }
+    .aside1 {
+        height: 20.6rem;
+    }
+    .aside-wrapper {
+        width: 62%;
+    }
+    .aside-user-options {
+        margin-left: 5.8rem;
+    }
+    .aside-icons i {
+        font-size: 2.3rem;
+        margin-bottom: 1.2rem;
+    }
+    .user-option {
+        font-size: 1.2rem;
+        padding: 7.5rem 2.3rem;
+    }
+    .section-3-wrapper {
+        width: 92%;
+    }
+    .section-3-wrapper h3 {
+        font-size: 1.8rem;
+        padding: 4.8rem;
+    }
+    .section-3-pictures {
+        margin-left: 2rem;
+    }
+    .section-3-pictures img {
+        width: 29%;
+        margin: -1.38rem 0.87rem 5rem 0.87rem;
+    }
+    footer {
+        height: 17rem;
+    }
+    .nav-footer {
+        padding-top: 3.3rem;
+    }
+    .nav-footer li {
+        font-size: 0.8rem;
+    }
+    .footer-side-a h4, 
+    .footer-side-b h4 {
+        margin-bottom: 0.6rem;
+    }
+    .f-updated, .f-contact { 
+        font-size: 1.1rem;
+    }
+    .footer-side-a,
+    .footer-side-b {
+        line-height: 1.3rem;
+    }
+
+    .footer-side-a p, 
+    .footer-side-b p {
+        font-size: 0.8rem;
+    }
+    button, input, select, textarea {
+        font-size: 28%;
+    }
+    .my-email {
+        margin-top: -1rem;
+    }
+    input[type="email"] {
+        padding: 0.2rem 0 0.2rem 1rem;
+    }
+    form button {
+        padding: 0.42rem 1.1rem;
+        font-size: 0.8rem;
+        margin-left: -0.7rem;
+    }
+        
+    .copyright i {
+        font-size: 0.8rem;
+    }
+    .copyright {
+        font-size: 0.8rem;
+    }
+    .copyright-p {
+        padding: 0.4rem 0;
+    }
+}
+
 
 @media (max-width: 768px) {
 
