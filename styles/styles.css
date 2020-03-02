@@ -1385,7 +1385,7 @@ input[type="email"] {
     }
 
     .main-info-1 {
-        padding: 3rem 1.5rem 4rem 1.5rem;
+        padding: 3rem 0.9rem 3rem 0.9rem;
     }
 
     .main-info-1 h3 {
@@ -1396,83 +1396,116 @@ input[type="email"] {
         text-align: center; 
     }
     .buttons {
-        margin: 1rem 5rem; 
+        margin: 1rem 3rem; 
+        width: 60%;
     }
     .mission {
-        padding-top: 4rem;
-    }
-
-        /* 
-    i {
-        margin: 1.1rem;
-        font-size: 3.5rem;
-    }
-    .header-buttons {
-        font-size: 3rem;
-        padding-top: 4rem;
-    }
-
-    .main-info-p {
-        font-size: 2.8rem;
-        line-height: 4rem;
-        margin-top: 2.4rem;
-    }
-    .buttons {
-        font-size: 2.5rem;
-        padding: 1.4rem 3.9rem;
-    }
-    .main-images {
-        height: 82.7rem;
-    }
-    .alissa-p {
-        font-size: 2.7rem;
-        line-height: 4rem;
+        padding-top: 0rem;
     }
     .section-2-info {
-        padding: 15.62rem 7.5rem 17.5rem 7.5rem;
+        text-align:center;
     }
+
     .clearfix .alissa img {
-        margin: 14rem 0 11.56rem 10rem;
+        height: 78vh;
+        object-fit: cover;
+        margin: 2.5rem 0 0 0;
     }
-    .read-more {
-        margin-top: 4rem;
-    }   
-    .aside1 {
-        height: 67rem;
+    .section-2-info h3 {
+        font-size: 2.2rem;
+    }
+    .section-2-info {
+        padding: 3rem 1rem 3rem 1rem;
+    }
+    .alissa-p {
+        font-size: 1.1rem;
+        line-height: 1.6rem;
+        text-align: left;
     }
     .aside-user-options {
-        margin-left: 13rem;
+        width: 73%;
+        margin-left: 1rem;
+        padding-top: 2rem;
+    }
+    .aside1 {
+        height: 155vh;
+        background-position-x: 70%;
+    }
+    .aside-icons {
+        width: 55%;
+        margin: 2rem 1rem 0 2rem;
+    }
+    .aside-icons i {
+        margin-bottom: 1rem;
+        margin-left: 2.6rem;
     }
     .user-option {
-        font-size: 4.2rem;
+        float: none;
+        text-align: center;
+        width: 100%;
+        padding: 0;
+    }
+    .user-option a {
+        text-align: center; 
+        margin-left: 2rem;
     }
     .section-3-wrapper h3 {
-        font-size: 6rem;
-        padding: 13.5rem;
+        font-size: 2.3rem;
+    }
+    .bike {
+        display: none;
     }
     .section-3-pictures img {
-        margin: 0.62rem 1.87rem 15rem 1.87rem;
+        width: 45%;
+        margin: 0rem 0.5rem 3.5rem 0.5rem;
     }
+
     footer {
-        height: 57rem;
+        height: 33rem;
     }
-    .nav-footer {
-        padding-top: 13.25rem;
+    .footer-wrapper {
+        width: 95%;
     }
+    .nav-footer { 
+        padding-top: 2rem;
+    }
+    .nav-footer li {
+        font-size: 1rem;
+        margin: 0 1.1rem;
+    }
+    .nav-footer li a {
+        text-transform: capitalize;
+    }
+    .footer-side-a,
     .footer-side-b {
-        margin-right: 2rem;
+        float: none;
+        text-align: center;
+        width: 100%; 
+        margin-top: 2.8rem;
+    }
+    .footer-side-a h4,
+    .footer-side-b h4 {
+        margin-bottom: 1.3rem;
     }
     input[type="email"] {
-        padding: 1rem 0 1rem 5rem;
-        width: 65%;
+        width: 98%;
+        padding: 0.7rem 0;
+        text-align: center;
+        margin-bottom: -0.8rem;
+    }
+    .my-email {
+        margin-top: 0.5rem;
     }
     form button {
-        padding: 1.7rem 4.06rem;
+        padding: 0.8rem 1.1rem;
+        font-size: 1rem;
+        margin-left: 0;
+        width: 98%;
     }
-    .copyright {
-        font-size: 2.5rem;
+    button,
+    input,
+    select,
+    textarea {
+        font-size: 36%;
     }
-    .copyright-p {
-        padding: 1.1rem 0;
-    } */
 }
