@@ -387,7 +387,6 @@ input[type="email"] {
     .footer-wrapper {
         max-width: 218.75rem;
     }
-
     .aside-wrapper {
         width: 53%;
     }
@@ -403,6 +402,7 @@ input[type="email"] {
         font-size: 3rem;
         padding-top: 4rem;
     }
+
 
     .main-info-p {
         font-size: 2.8rem;
@@ -445,6 +445,8 @@ input[type="email"] {
     .section-3-pictures img {
         margin: 0.62rem 1.87rem 15rem 1.87rem;
     }
+
+
     footer {
         height: 57rem;
     }
@@ -467,9 +469,10 @@ input[type="email"] {
     .copyright-p {
         padding: 1.1rem 0;
     }
-
 }
 
+
+/* next media query starts here  */
 
 
 
@@ -484,17 +487,17 @@ input[type="email"] {
 
 
 
+/* next media query starts here  */
+
 
 
 @media (max-width:3000px) {
-
     .wrapper,
     .section-wrapper,
     .section-3-wrapper,
     .footer-wrapper {
         max-width: 187.5rem;
     }
-
     .aside-wrapper {
         width: 60%;
     }
@@ -510,6 +513,7 @@ input[type="email"] {
         font-size: 3rem;
     }
 
+
     .main-info-p {
         font-size: 2rem;
         line-height: 3.2rem;
@@ -521,7 +525,6 @@ input[type="email"] {
     .main-info-1 h3 {
         font-size: 5rem;
     }
-
     .buttons {
         font-size: 2.2rem;
         padding: 1.4rem 3.9rem;
@@ -556,6 +559,8 @@ input[type="email"] {
         font-size: 5rem;
         padding: 11.5rem;
     }
+
+
     footer {
         height: 52rem;
     }
@@ -589,10 +594,12 @@ input[type="email"] {
 }
 
 
+/* next media query starts here  */
+
 
 
 @media (max-width: 2500px) {
-        .wrapper,
+    .wrapper,
     .section-wrapper,
     .section-3-wrapper,
     .footer-wrapper {
@@ -613,6 +620,8 @@ input[type="email"] {
         margin: 0.8rem;
         font-size: 2.5rem;
     }
+
+
     .main-info-p {
         font-size: 1.8rem;
         line-height: 2.8rem;
@@ -669,6 +678,8 @@ input[type="email"] {
     .section-3-pictures img {
         margin: 0.62rem 1.87rem 11rem 1.87rem;
     }
+
+
     footer {
         height: 40rem;
     }
@@ -678,14 +689,14 @@ input[type="email"] {
     .nav-footer li {
         font-size: 1.8rem;
     }
-    .footer-side-a h4, 
-    .footer-side-b h4 {
-        margin-bottom: 1rem;
-    }
     .footer-side-a,
     .footer-side-b {
         margin-top: 3.5rem;
         line-height: 3.2rem;
+    }
+    .footer-side-a h4, 
+    .footer-side-b h4 {
+        margin-bottom: 1rem;
     }
     .f-updated, .f-contact {
         font-size: 2.5rem;
@@ -720,6 +731,10 @@ input[type="email"] {
 
 
 
+/* next media query starts here  */
+
+
+
 @media (max-width: 2250px) {
     .clearfix .alissa img {
         margin: 10rem 0 10rem 8rem;
@@ -738,6 +753,10 @@ input[type="email"] {
         margin-left: 7rem;
     }
 }
+
+
+
+/* next media query starts here  */
 
 
 
@@ -762,6 +781,8 @@ input[type="email"] {
         margin: 0.6rem;
         font-size: 2rem;
     }
+
+
     .main-info-p {
         font-size: 1.5rem;
         line-height: 2.2rem;
@@ -772,7 +793,6 @@ input[type="email"] {
     .main-info-1 h3 {
         font-size: 3rem;
     }
-
     .main-images {
         height: 46.5rem;
     }
@@ -799,7 +819,6 @@ input[type="email"] {
     .aside1 {
         height: 38rem;
     }
-
     .aside-user-options {
         margin-left: 10rem;
     }
@@ -818,6 +837,7 @@ input[type="email"] {
     .section-3-pictures img {
         margin: -1.38rem 1.87rem 10.5rem 1.87rem;
     }
+
 
     footer {
         height: 32.5rem;
@@ -865,6 +885,9 @@ input[type="email"] {
         padding: 0.8rem 0;
     }
 }
+
+
+/* next media query starts here  */
 
 
 
@@ -917,6 +940,9 @@ input[type="email"] {
 
 
 
+/* next media query starts here  */
+
+
 
 @media (max-width: 1440px) {
     .wrapper,
@@ -944,6 +970,8 @@ input[type="email"] {
         margin: 0.4rem;
         font-size: 1.5rem;
     }
+
+
     .main-info-p {
         font-size: 1rem;
         line-height: 1.6rem;
@@ -1008,6 +1036,8 @@ input[type="email"] {
     .footer-wrapper {
         width: 88%;
     }
+
+
     footer {
         height: 22.6rem;
     }
@@ -1055,6 +1085,12 @@ input[type="email"] {
     }
 }
 
+
+
+/* next media query starts here  */
+
+
+
 @media (max-width: 1082px) {
     .wrapper,
     .section-wrapper,
@@ -1074,6 +1110,8 @@ input[type="email"] {
         margin: 0.3rem;
         font-size: 1.2rem;
     }
+
+
     .main-info-p {
         font-size: 0.8rem;
         line-height: 1.25rem;
@@ -1143,6 +1181,8 @@ input[type="email"] {
         width: 29%;
         margin: -1.38rem 0.87rem 5rem 0.87rem;
     }
+
+
     footer {
         height: 17rem;
     }
@@ -1152,6 +1192,10 @@ input[type="email"] {
     .nav-footer li {
         font-size: 0.8rem;
     }
+    .footer-side-a,
+    .footer-side-b {
+        line-height: 1.3rem;
+    }
     .footer-side-a h4, 
     .footer-side-b h4 {
         margin-bottom: 0.6rem;
@@ -1159,11 +1203,6 @@ input[type="email"] {
     .f-updated, .f-contact { 
         font-size: 1.1rem;
     }
-    .footer-side-a,
-    .footer-side-b {
-        line-height: 1.3rem;
-    }
-
     .footer-side-a p, 
     .footer-side-b p {
         font-size: 0.8rem;
@@ -1193,6 +1232,11 @@ input[type="email"] {
         padding: 0.4rem 0;
     }
 }
+
+
+
+/* next media query starts here  */
+
 
 
 @media (max-width: 768px) {
@@ -1226,6 +1270,8 @@ input[type="email"] {
         margin: 0.6rem;
         font-size: 1.2rem;
     }
+
+
     .main-info-1 {
         float: none;
         width: 100%;
@@ -1248,7 +1294,6 @@ input[type="email"] {
     .read-more {
         margin-top: 1.5rem;
     }
-
     .section-2 .section-wrapper {
         width: 95%;
     }
@@ -1275,7 +1320,7 @@ input[type="email"] {
         line-height: 1.8rem;
     }
     .aside-wrapper {
-        width: 70%;
+        width: 83%;
     }
     .aside1 {
         background-position-x: 68%;
@@ -1300,6 +1345,7 @@ input[type="email"] {
     .section-3-pictures {
         margin-left: 0rem;
     }
+
 
     footer {
         height: 21rem;
@@ -1333,6 +1379,97 @@ input[type="email"] {
         font-size: 1rem;
     }
 }
+
+
+
+/* next media query starts here  */
+
+
+
+@media (max-width: 650px) {
+    .aside-wrapper {
+        width: 90%;
+    }
+    .aside-icons i {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+    .user-option {
+        padding: 6.5rem 1rem;
+    }
+    .section-3-pictures img {
+    width: 28%;
+    }
+    .bike {
+        display: none;
+    }
+    .section-3-pictures img {
+        width: 44.5%;
+        margin: 0rem 0.5rem 3rem 0.5rem;
+    }
+    footer {
+        height: 25rem;
+    }
+    input[type="email"] {
+        width: 100%;
+    }
+
+    input {
+        margin-top: 1.5rem;
+        margin-bottom: -1rem;
+    }
+    form button {
+        width: 100%;
+        padding: 0.42rem 1.1rem;
+        font-size: 0.8rem;
+        margin-left: 0;
+    }
+}
+
+
+
+
+/* next media query starts here  */
+
+
+
+
+
+@media (max-width: 515px) {
+    .footer-side-a,
+    .footer-side-b {
+    float: none;
+    text-align: center;
+    width: 100%;
+    margin-top: 1.9rem; 
+    }
+    footer {
+        height: 31rem;
+    }
+    .nav-footer li {
+        margin: 0 1.3rem;
+    }
+}
+
+/* next media query starts here  */
+
+
+
+@media (max-width: 460px) {
+    .user-option {
+        float: none;
+    }
+    .section-2-info h3 {
+    font-size: 2.5rem;
+    }
+}
+
+
+
+/* next media query starts here  */
+
+
+
 
 @media (max-width: 360px) {
     .wrapper,
@@ -1373,6 +1510,7 @@ input[type="email"] {
         float: none;
         visibility: hidden;
     }
+
     .mobile-images {
         display: block; 
     }
@@ -1383,11 +1521,9 @@ input[type="email"] {
     .main-images img {
         display: none;
     }
-
     .main-info-1 {
         padding: 3rem 0.9rem 3rem 0.9rem;
     }
-
     .main-info-1 h3 {
         font-size: 2.1rem;
     }
@@ -1405,9 +1541,8 @@ input[type="email"] {
     .section-2-info {
         text-align:center;
     }
-
     .clearfix .alissa img {
-        height: 78vh;
+        height: 50vh;
         object-fit: cover;
         margin: 2.5rem 0 0 0;
     }
@@ -1428,7 +1563,7 @@ input[type="email"] {
         padding-top: 2rem;
     }
     .aside1 {
-        height: 155vh;
+        height: 31.3rem;
         background-position-x: 70%;
     }
     .aside-icons {
@@ -1437,10 +1572,9 @@ input[type="email"] {
     }
     .aside-icons i {
         margin-bottom: 1rem;
-        margin-left: 2.6rem;
+        margin-left: 4.6rem;
     }
     .user-option {
-        float: none;
         text-align: center;
         width: 100%;
         padding: 0;
@@ -1451,17 +1585,12 @@ input[type="email"] {
     }
     .section-3-wrapper h3 {
         font-size: 2.3rem;
-    }
-    .bike {
-        display: none;
-    }
-    .section-3-pictures img {
-        width: 45%;
-        margin: 0rem 0.5rem 3.5rem 0.5rem;
+        padding: 3.3rem;
     }
 
+
     footer {
-        height: 33rem;
+        height: 31rem;
     }
     .footer-wrapper {
         width: 95%;
@@ -1478,9 +1607,7 @@ input[type="email"] {
     }
     .footer-side-a,
     .footer-side-b {
-        float: none;
         text-align: center;
-        width: 100%; 
         margin-top: 2.8rem;
     }
     .footer-side-a h4,
@@ -1509,3 +1636,5 @@ input[type="email"] {
         font-size: 36%;
     }
 }
+
+/* media queries end here  */
