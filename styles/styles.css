@@ -53,6 +53,10 @@ body {
     background-size: cover;
 }
 
+.header-dropdown {
+    display: none;
+}
+
 nav {
     font-size: 1.8rem;
     text-align: center;
@@ -138,6 +142,10 @@ i:hover {
 
 .read-more:hover {
     box-shadow: 0.18rem 0.18rem 1.56rem #4A4A4A;
+}
+
+.mobile-images {
+    display: none;
 }
 
 .main-images {
@@ -1333,15 +1341,68 @@ input[type="email"] {
     .footer-wrapper {
         max-width: 22.5rem;
     }
-        /* 
-
-    .aside-wrapper {
-        width: 53%;
-    }
     .main-title {
-        font-size: 18rem;
-        margin: 34rem 0 46rem 0;
+        width: 100%;
+        font-size: 4rem;
+        margin: 10rem 0 5.5rem 0;
+        float: none;
+        text-align: center;
     }
+    .nav-buttons {
+        margin: 0.5rem;
+    }
+    .header-dropdown {
+        display: block;
+        text-align: right; 
+    }
+    .header-dropdown i {
+        color: #F4F4F4;
+        font-size: 2.5rem;
+    }
+    .header-dropdown i:hover {
+        color: #F2A11C;
+    }
+    .header-buttons {
+        font-size: 3rem;
+        display: none;
+    }
+    .icons {
+        width: 10%;
+        margin-top: 0.5rem;
+        margin-right: 2.2rem;
+        float: none;
+        visibility: hidden;
+    }
+    .mobile-images {
+        display: block; 
+    }
+    .mobile-images img {
+        width: 100%;
+    }
+    .main-images, 
+    .main-images img {
+        display: none;
+    }
+
+    .main-info-1 {
+        padding: 3rem 1.5rem 4rem 1.5rem;
+    }
+
+    .main-info-1 h3 {
+        font-size: 2.1rem;
+    }
+    .main-info-p,
+    .main-info-1 h3 {
+        text-align: center; 
+    }
+    .buttons {
+        margin: 1rem 5rem; 
+    }
+    .mission {
+        padding-top: 4rem;
+    }
+
+        /* 
     i {
         margin: 1.1rem;
         font-size: 3.5rem;
